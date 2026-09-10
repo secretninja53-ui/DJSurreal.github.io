@@ -1,13 +1,18 @@
 window.STORY = {
   "site": {
     "name": "Chains of Fate",
-    "tagline": "A serial light novel, one chapter at a time.",
+    "tagline": "Light Novel",
     "book": {
       "slug": "chosen",
       "title": "Chosen",
       "volume": "Volume 1 · Intake",
       "blurb": "Fate is not a god. It is a chain. When it shackles someone, they become an actor — a Chosen — and the city learns to hunt them. This is the first volume: a boy with no past, a team that is not quite the police, and a bench under stars that the story has not explained yet."
-    }
+    },
+    "lede": "This will contain the entire continuity of the series.",
+    "aboutTitle": "I will think of something to put here",
+    "about": [
+      "Place holder"
+    ]
   },
   "chapters": [
     {
@@ -27,7 +32,16 @@ window.STORY = {
         "“Tomorrow... you can meet her tomorrow,” he answered her as he stood up from the bench. He gave a light stretch before holding his hand down to her level. “Anyway, it’s time for me to get going,” he stated as she gently took his hand, accepting his offer to help her up. She smiled, hugging him tightly, with their faces inches away. No words were spoken as she released him. He turned to walk away before noticing something by his feet. Reaching down, he grabbed the mysterious object.",
         "“What is it?” She asked, confused as he held up a basic household item.",
         "“It’s a hair tie.” He smiled, already thinking of the gift. “Liza will love it.”"
-      ]
+      ],
+      "book": "chosen"
+    }
+  ],
+  "books": [
+    {
+      "slug": "chosen",
+      "title": "Chosen",
+      "volume": "Volume 1 · Intake",
+      "blurb": "Fate is not a god. It is a chain. When it shackles someone, they become an actor — a Chosen — and the city learns to hunt them. This is the first volume: a boy with no past, a team that is not quite the police, and a bench under stars that the story has not explained yet."
     }
   ]
 };

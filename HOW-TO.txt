@@ -1,0 +1,35 @@
+CHAINS OF FATE — run this on your PC
+====================================
+
+What this folder is
+-------------------
+A complete copy of the site as ordinary files. No install. No internet.
+No accounts. Open it on the same computer you want to host from.
+
+The fastest way (just you, reading)
+-----------------------------------
+1. Unzip this folder anywhere (Desktop is fine).
+2. Double-click  index.html
+3. It opens in your browser.
+
+Light / Dark slider and comments stay on this computer.
+
+Host so other devices on your network can read
+----------------------------------------------
+Keep index.html as the homepage of whatever you already use to serve
+files from this PC (your existing server / VM / a simple local share).
+
+Point that host at THIS folder. The only file it needs to open first
+is index.html. Do not put your private image board on the same public
+door. This site is only text.
+
+Editing later
+-------------
+- Site name, chapters, and story text live in  app.js
+- Colors live in  styles.css
+- Leave the three files in the same folder.
+
+Comments
+--------
+Name + comment, no login. Stored in the browser on that device.
+They are not a shared public database until we add that on purpose.
